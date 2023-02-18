@@ -1,3 +1,5 @@
+require_relative './example'
+
 # Something is missing here
 
 class Garden
